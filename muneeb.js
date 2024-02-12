@@ -4,7 +4,7 @@ import React from 'react'
 export default function muneeb() {
   return (
     <View>
-      <Text>zeshhan </Text>
+      <Text>zeshhan aslam</Text>
     </View>
   )
 }
